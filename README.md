@@ -22,10 +22,10 @@
 
 <div style="margin-top: 20px;">
   <a href="https://spyware.neocities.org/articles/discord">
-      <img src="https://via.placeholder.com/150" alt="Discord Link Placeholder">
+      <img src="https://i.postimg.cc/L5hd7RLK/image-2.gif" alt="Discord Link Placeholder">
   </a>
   <a href="https://ublockorigin.com/">
-      <img src="https://via.placeholder.com/150" alt="uBlock Origin Link Placeholder">
+      <img src="https://i.postimg.cc/FzqtXqVf/image-1.png" alt="uBlock Origin Link Placeholder">
   </a>
 </div>
 
