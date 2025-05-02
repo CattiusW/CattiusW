@@ -2,11 +2,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Cal+Sans&pause=1000&color=F7E22F&center=true&vCenter=true&width=500&lines=Hi,+I'm+Cassius;Hi,+I'm+Cattius" alt="Typing SVG Animation">
 <div style="margin-top: 20px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cattiusw&theme=dark&show_icons=true" alt="Top Languages" style="border-radius: 5px;margin-left:20px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cattiusw&theme=dark&show_icons=true" alt="Top Languages" style="border-radius: 5px;margin-left:20px;">[![forthebadge](https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg)](https://forthebadge.com)
 <p style="text-align: left; max-width: 50%; margin-top: 20px;">
       Hi there! I’m <strong>Cassius</strong>, and I try to learn a new thing each day.
       I am interested in <strong>AI</strong>, <strong>Node.JS</strong>, web technologies & full-stack application development.
-
+</p>
 
 
   
