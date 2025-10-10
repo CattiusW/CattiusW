@@ -3,9 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Cal+Sans&pause=1000&color=F7E22F&center=true&vCenter=true&width=500&lines=Hi,+I'm+Cassius;Hi,+I'm+Cattius" alt="Typing SVG Animation">
 <div style="margin-top: 20px;">
 
-<p style="text-align: left; max-width: 50%;font-family: cal sans;">
-       Hi there! I’m <strong>Cassius</strong>, and I try to learn a new thing each day. I am interested in <strong>AI</strong>, <strong>Node.JS</strong>, web technologies & full-stack applications. I have 2 cats; <strong>Mango</strong> & <strong>Perdy</strong>. You can reach me <strong><a href="mailto:cattius@kittymail.com" style="color:white;">here</a></strong>.
-   </p>
+I have two Cats
    
    ---
    
