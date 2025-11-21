@@ -15,7 +15,8 @@ I have two Cats
   
 
 </div>
-
+<hr>
+<img src="https://chess-card.vercel.app/Mangowini?width=500&height=200" height="100" width="250"/>
 <br>
 
 ## Octo-Ring Links:
